@@ -4,7 +4,7 @@
 
 **Suggested software: Python or Jupyter Notebook**
 
-**Libraries required: Up to you**
+**Libraries required: requirements.txt**
 
 Your task is to forecast a week of demand and import data based on a 3 month dataset of historic power flows.
 
